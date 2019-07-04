@@ -4,6 +4,8 @@
 
 This repository contains python notebooks for my talk at PyData, Pune.
 
+## [Colab Link](https://colab.research.google.com/drive/12guYNV_ysKo4I5dMHp5ENLjzxUSFhrfm)
+
 ### [Python Notebook for the conference](https://nbviewer.jupyter.org/github/akshaybahadur21/PyData-Pune-2019/blob/master/PyData_Pune_2019.ipynb)
 
 ### Code Requirements
